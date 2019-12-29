@@ -1,0 +1,112 @@
+COD_ENSE ,COD_GRADO ,Nombre Oficial del Grado 
+110,1,1º Básico 
+110,2,2º Básico 
+110,3,3º Básico 
+110,4,4º Básico 
+110,5,5º Básico 
+110,6,6º Básico 
+110,7,7º Básico 
+110,8,8º Básico 
+160,1,Alfabetización 
+160,2,Nivel Básico 1 (1º a 4º básico) 
+160,3,Nivel Básico 2 (5º a 6º básico) 
+160,4,Nivel Básico 3 (7º a 8º básico) 
+160,5,Nivel Técnico 
+161,1,Alfabetización 
+161,2,Nivel Básico 1 (1º a 4º básico) 
+161,3,Nivel Básico 2 (5º a 6º básico) 
+161,4,Nivel Básico 3 (7º a 8º básico) 
+161,5,Nivel Técnico 
+163,1,Alfabetización 
+163,2,Nivel Básico 1 (1º a 4º básico) 
+163,3,Nivel Básico 2 (5º a 6º básico) 
+163,4,Nivel Básico 3 (7º a 8º básico) 
+163,5,Nivel Técnico 
+165,1,Nivel Básico 1 (1º a 4º básico) 
+165,2,Nivel Básico 2 (5º a 6º básico) 
+165,3,Nivel Básico 3 (7º a 8º básico) 
+167,2,Nivel Básico 2 (5º a 6º básico) 
+167,3,Nivel Básico 3 (7º a 8º básico) 
+310,1,1º medio 
+310,2,2º medio 
+310,3,3º medio 
+310,4,4º medio 
+360,1,1º medio8 
+360,2,2º medio9 
+360,3,3º medio10 
+360,4,4º medio11 
+361,1,Primer ciclo (1º y 2º medio) 
+361,3,Segundo ciclo (3º y 4º medio) 
+363,1,Primer nivel (1º y 2º medio) 
+363,3,Segundo nivel (3º y 4º medio) 
+410,1,1º medio 
+410,2,2º medio 
+410,3,3º medio 
+410,4,4º medio 
+460,1,Primer ciclo (1º y 2º medio) 
+460,3,3º medio 
+460,4,4º medio 
+461,1,Primer ciclo (1º y 2º medio) 
+461,3,3º medio 
+461,4,4º medio 
+463,1,Primer nivel (1º y 2º medio) 
+463,3,Segundo nivel (3º medio) 
+463,4,Tercero nivel (4º medio) 
+510,1,1º medio 
+510,2,2º medio 
+510,3,3º medio 
+510,4,4º medio 
+560,1,Primer ciclo (1º y 2º medio) 
+560,3,3º medio 
+560,4,4º medio 
+561,1,Primer ciclo (1º y 2º medio) 
+561,3,3º medio 
+561,4,4º medio 
+563,1,Primer nivel (1º y 2º medio) 
+563,3,Segundo nivel (3º medio) 
+563,4,Tercero nivel (4º medio) 
+610,1,1º medio 
+610,2,2º medio 
+610,3,3º medio 
+610,4,4º medio 
+660,1,Primer ciclo (1º y 2º medio) 
+660,3,3º medio 
+660,4,4º medio 
+661,1,Primer ciclo (1º y 2º medio) 
+661,3,3º medio 
+661,4,4º medio 
+663,1,Primer nivel (1º y 2º medio) 
+663,3,Segundo nivel (3º medio) 
+663,4,Tercero nivel (4º medio) 
+710,1,1º medio 
+710,2,2º medio 
+710,3,3º medio 
+710,4,4º medio 
+760,1,Primer ciclo (1º y 2º medio) 
+760,3,3º medio 
+760,4,4º medio 
+761,1,Primer ciclo (1º y 2º medio) 
+761,3,3º medio 
+761,4,4º medio 
+763,1,Primer nivel (1º y 2º medio) 
+763,3,Segundo nivel (3º medio) 
+763,4,Tercero nivel (4º medio) 
+810,1,1º medio 
+810,2,2º medio 
+810,3,3º medio 
+810,4,4º medio 
+860,1,Primer ciclo (1º y 2º medio) 
+860,3,3º medio 
+860,4,4º medio 
+861,1,Primer ciclo (1º y 2º medio) 
+861,3,3º medio 
+861,4,4º medio 
+863,1,Primer nivel (1º y 2º medio) 
+863,3,Segundo nivel (3º medio) 
+863,4,Tercero nivel (4º medio) 
+910,1,1º medio 
+910,2,2º medio 
+910,3,3º medio 
+910,4,4º medio 
+963,3,Segundo nivel (3º medio) 
+963,4,Tercero nivel (4º medio) 

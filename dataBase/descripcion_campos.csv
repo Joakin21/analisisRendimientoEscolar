@@ -1,0 +1,162 @@
+Nombre;Tipo;Descripción
+AGNO;Numérico;Año de la información
+RBD;Numérico;Rol Base de Datos del establecimiento
+DGV_RBD;Numérico;Dígito verificador del RBD
+NOM_RBD;Cadena;Nombre del establecimiento
+LET_RBD;Cadena;Letra del establecimiento
+NUM_RBD;Numerico;Número del establecimiento
+COD_REG_RBD;Numérico;Código de región en que se ubica el establecimiento (ver Anexo I)
+COD_PRO_RBD;Numérico;Código oficial de provincia en que se ubica el establecimiento (ver Anexo I)
+COD_COM_RBD;Numérico;Código oficial3 de comuna en que se ubica el establecimiento
+NOM_COM_RBD;Cadena;Nombre de la comuna
+COD_DEPROV_RBD;Numérico;Código del Departamento Provincial de Educación al que pertenece el establecimiento
+NOM_DEPROV_RBD;Cadena;Nombre del Departamento Provincial de Educación al que pertenece el establecimiento
+COD_DEPE;Numérico;Código de dependencia del establecimiento
+COD_DEPE2;Numérico;Código de Dependencia del Establecimiento (agrupado)
+RURAL_RBD;Numérico;Área geográfica en que se ubica el establecimiento
+ESTADO_ESTAB;Numérico;Estado del establecimiento
+COD_ENSE;Numérico;Código de enseñanza
+COD_ENSE2;Numérico;Niveles de enseñanza agrupados
+APR_HOM_01;Numérico;Número de hombres que aprobaron el 1er grado
+APR_HOM_02;Numérico;Número de hombres que aprobaron el 2° grado
+APR_HOM_03;Numérico;Número de hombres que aprobaron el 3° grado
+APR_HOM_04;Numérico;Número de hombres que aprobaron el 4° grado
+APR_HOM_05;Numérico;Número de hombres que aprobaron el 5° grado
+APR_HOM_06;Numérico;Número de hombres que aprobaron el 6° grado
+APR_HOM_07;Numérico;Número de hombres que aprobaron el 7° grado
+APR_HOM_08;Numérico;Número de hombres que aprobaron el 8° grado
+APR_HOM_TO;Numérico;Número total de hombres aprobados, en el tipo de enseñanza
+APR_MUJ_01;Numérico;Número de mujeres que aprobaron el 1er grado
+APR_MUJ_02;Numérico;Número de mujeres que aprobaron el 2° grado
+APR_MUJ_03;Numérico;Número de mujeres que aprobaron el 3° grado
+APR_MUJ_04;Numérico;Número de mujeres que aprobaron el 4° grado
+APR_MUJ_05;Numérico;Número de mujeres que aprobaron el 5° grado
+APR_MUJ_06;Numérico;Número de mujeres que aprobaron el 6° grado
+APR_MUJ_07;Numérico;Número de mujeres que aprobaron el 7° grado
+APR_MUJ_08;Numérico;Número de mujeres que aprobaron el 8° grado
+APR_MUJ_TO;Numérico;Número total de mujeres aprobadas, en el tipo de enseñanza
+APR_SI_01;Numérico;Número de estudiantes de los que no se tiene información de su sexo que aprobaron el 1er grado
+APR_SI_02;Numérico;Número de estudiantes de los que no se tiene información de su sexo que aprobaron el 2do grado
+APR_SI_03;Numérico;Número de estudiantes de los que no se tiene información de su sexo que aprobaron el 3er grado
+APR_SI_04;Numérico;Número de estudiantes de los que no se tiene información de su sexo que aprobaron el 4to grado
+APR_SI_05;Numérico;Número de estudiantes de los que no se tiene información de su sexo que aprobaron el 5to grado
+APR_SI_06;Numérico;Número de estudiantes de los que no se tiene información de su sexo que aprobaron el 6to grado
+APR_SI_07;Numérico;Número de estudiantes de los que no se tiene información de su sexo que aprobaron el 7mo grado
+APR_SI_08;Numérico;Número de estudiantes de los que no se tiene información de su sexo que aprobaron el 8to grado
+APR_SI_TO;Numérico;Número total de estudiantes aprobados de los que no se tiene información de su sexo, en el tipo de enseñanza
+REP_HOM_01;Numérico;Número de hombres que reprobaron el 1er grado
+REP_HOM_02;Numérico;Número de hombres que reprobaron el 2° grado
+REP_HOM_03;Numérico;Número de hombres que reprobaron el 3° grado
+REP_HOM_04;Numérico;Número de hombres que reprobaron el 4° grado
+REP_HOM_05;Numérico;Número de hombres que reprobaron el 5° grado
+REP_HOM_06;Numérico;Número de hombres que reprobaron el 6° grado
+REP_HOM_07;Numérico;Número de hombres que reprobaron el 7° grado
+REP_HOM_08;Numérico;Número de hombres que reprobaron el 8° grado
+REP_HOM_TO;Numérico;Número total de hombres reprobados, en el tipo de enseñanza
+REP_MUJ_01;Numérico;Número de mujeres que reprobaron el 1er grado
+REP_MUJ_02;Numérico;Número de mujeres que reprobaron el 2° grado
+REP_MUJ_03;Numérico;Número de mujeres que reprobaron el 3° grado
+REP_MUJ_04;Numérico;Número de mujeres que reprobaron el 4° grado
+REP_MUJ_05;Numérico;Número de mujeres que reprobaron el 5° grado
+REP_MUJ_06;Numérico;Número de mujeres que reprobaron el 6° grado
+REP_MUJ_07;Numérico;Número de mujeres que reprobaron el 7° grado
+REP_MUJ_08;Numérico;Número de mujeres que reprobaron el 8° grado
+REP_MUJ_TO;Numérico;Número total de mujeres reprobadas, en el tipo de enseñanza
+REP_SI_01;Numérico;Número de estudiantes de los que no se tiene información de su sexo que reprobaron el 1er grado
+REP_SI_02;Numérico;Número de estudiantes de los que no se tiene información de su sexo que reprobaron el 2 grado
+REP_SI_03;Numérico;Número de estudiantes de los que no se tiene información de su sexo que reprobaron el 3 grado
+REP_SI_04;Numérico;Número de estudiantes de los que no se tiene información de su sexo que reprobaron el 4 grado
+REP_SI_05;Numérico;Número de estudiantes de los que no se tiene información de su sexo que reprobaron el 5 grado
+REP_SI_06;Numérico;Número de estudiantes de los que no se tiene información de su sexo que reprobaron el 6 grado
+REP_SI_07;Numérico;Número de estudiantes de los que no se tiene información de su sexo que reprobaron el 7 grado
+REP_SI_08;Numérico;Número de estudiantes de los que no se tiene información de su sexo que reprobaron el 8 grado
+REP_SI_TO;Numérico;Número total de estudiantes reprobados de los que no se tiene información de su sexo, en el tipo de enseñanza
+RET_HOM_01;Numérico;Número de hombres que se retiraron del 1er grado
+RET_HOM_02;Numérico;Número de hombres que se retiraron del 2° grado
+RET_HOM_03;Numérico;Número de hombres que se retiraron del 3° grado
+RET_HOM_04;Numérico;Número de hombres que se retiraron del 4° grado
+RET_HOM_05;Numérico;Número de hombres que se retiraron del 5° grado
+RET_HOM_06;Numérico;Número de hombres que se retiraron del 6° grado
+RET_HOM_07;Numérico;Número de hombres que se retiraron del 7° grado
+RET_HOM_08;Numérico;Número de hombres que se retiraron del 8° grado
+RET_HOM_TO;Numérico;Número total de hombres retirados, en el tipo de enseñanza
+RET_MUJ_01;Numérico;Número de mujeres que se retiraron del 1er grado
+RET_MUJ_02;Numérico;Número de mujeres que se retiraron del 2° grado
+RET_MUJ_03;Numérico;Número de mujeres que se retiraron del 3° grado
+RET_MUJ_04;Numérico;Número de mujeres que se retiraron del 4° grado
+RET_MUJ_05;Numérico;Número de mujeres que se retiraron del 5° grado
+RET_MUJ_06;Numérico;Número de mujeres que se retiraron del 6° grado
+RET_MUJ_07;Numérico;Número de mujeres que se retiraron del 7° grado
+RET_MUJ_08;Numérico;Número de mujeres que se retiraron del 8° grado
+RET_MUJ_TO;Numérico;Número total de mujeres retiradas, en el tipo de enseñanza
+RET_SI_01;Numérico;Número de estudiantes de los que no se tiene información de su sexo que se retiraron del 1 grado
+RET_SI_02;Numérico;Número de estudiantes de los que no se tiene información de su sexo que se retiraron del 2 grado
+RET_SI_03;Numérico;Número de estudiantes de los que no se tiene información de su sexo que se retiraron del 3 grado
+RET_SI_04;Numérico;Número de estudiantes de los que no se tiene información de su sexo que se retiraron del 4 grado
+RET_SI_05;Numérico;Número de estudiantes de los que no se tiene información de su sexo que se retiraron del 5 grado
+RET_SI_06;Numérico;Número de estudiantes de los que no se tiene información de su sexo que se retiraron del 6 grado
+RET_SI_07;Numérico;Número de estudiantes de los que no se tiene información de su sexo que se retiraron del 7 grado
+RET_SI_08;Numérico;Número de estudiantes de los que no se tiene información de su sexo que se retiraron del 8 grado
+TRA_HOM_01;Numérico;Número de hombres de 1er grado, que se cambió de establecimiento
+TRA_HOM_02;Numérico;Número de hombres de 2° grado, que se cambió de establecimiento
+TRA_HOM_03;Numérico;Número de hombres de 3° grado, que se cambió de establecimiento
+TRA_HOM_04;Numérico;Número de hombres de 4° grado, que se cambió de establecimiento
+TRA_HOM_05;Numérico;Número de hombres de 5° grado, que se cambió de establecimiento
+TRA_HOM_06;Numérico;Número de hombres de 6° grado, que se cambió de establecimiento
+TRA_HOM_07;Numérico;Número de hombres de 7° grado, que se cambió de establecimiento
+TRA_HOM_08;Numérico;Número de hombres de 8° grado, que se cambió de establecimiento
+TRA_HOM_TO;Numérico;Número de hombres del tipo de enseñanza, que se cambió de establecimiento
+TRA_MUJ_01;Numérico;Número de mujeres de 1er grado, que se cambió de establecimiento
+TRA_MUJ_02;Numérico;Número de mujeres de 2° grado, que se cambió de establecimiento
+TRA_MUJ_03;Numérico;Número de mujeres de 3° grado, que se cambió de establecimiento
+TRA_MUJ_04;Numérico;Número de mujeres de 4° grado, que se cambió de establecimiento
+TRA_MUJ_05;Numérico;Número de mujeres de 5° grado, que se cambió de establecimiento
+TRA_MUJ_06;Numérico;Número de mujeres de 6° grado, que se cambió de establecimiento
+TRA_MUJ_07;Numérico;Número de mujeres de 7° grado, que se cambió de establecimiento
+TRA_MUJ_08;Numérico;Número de mujeres de 8° grado, que se cambió de establecimiento
+TRA_MUJ_TO;Numérico;Número de mujeres del tipo de enseñanza, que se cambió de establecimiento
+TRA_SI_01;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 1 grado, que se cambió de establecimiento
+TRA_SI_02;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 2 grado, que se cambió de establecimiento
+TRA_SI_03;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 3 grado, que se cambió de establecimiento
+TRA_SI_04;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 4 grado, que se cambió de establecimiento
+TRA_SI_05;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 5 grado, que se cambió de establecimiento
+TRA_SI_06;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 6 grado, que se cambió de establecimiento
+TRA_SI_07;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 7 grado, que se cambió de establecimiento
+TRA_SI_08;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 8 grado, que se cambió de establecimiento
+TRA_SI_TO;Numérico;Número de estudiantes de sexo indeterminado del tipo de enseñanza, que se cambió de establecimiento
+SI_HOM_01;Numérico;Número de hombres de 1er grado, sin información de su situación final
+SI_HOM_02;Numérico;Número de hombres de 2° grado, sin información de su situación final
+SI_HOM_03;Numérico;Número de hombres de 3° grado, sin información de su situación final
+SI_HOM_04;Numérico;Número de hombres de 4° grado, sin información de su situación final
+SI_HOM_05;Numérico;Número de hombres de 5° grado, sin información de su situación final
+SI_HOM_06;Numérico;Número de hombres de 6° grado, sin información de su situación final
+SI_HOM_07;Numérico;Número de hombres de 7° grado, sin información de su situación final
+SI_HOM_08;Numérico;Número de hombres de 8° grado, sin información de su situación final
+SI_HOM_TO;Numérico;Número total de hombres en el tipo de enseñanza, sin información de su situación final
+SI_MUJ_01;Numérico;Número de mujeres de 1er grado, sin información de su situación final
+SI_MUJ_02;Numérico;Número de mujeres de 2° grado, sin información de su situación final
+SI_MUJ_03;Numérico;Número de mujeres de 3° grado, sin información de su situación final
+SI_MUJ_04;Numérico;Número de mujeres de 4° grado, sin información de su situación final
+SI_MUJ_05;Numérico;Número de mujeres de 5° grado, sin información de su situación final
+SI_MUJ_06;Numérico;Número de mujeres de 6° grado, sin información de su situación final
+SI_MUJ_07;Numérico;Número de mujeres de 7° grado, sin información de su situación final
+SI_MUJ_08;Numérico;Número de mujeres de 8° grado, sin información de su situación final
+SI_MUJ_TO;Numérico;Número total de mujeres en el tipo de enseñanza, sin información de su situación final
+SI_SI_01;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 1 grado sin información de su situación final
+SI_SI_02;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 2 grado sin información de su situación final
+SI_SI_03;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 3 grado sin información de su situación final
+SI_SI_04;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 4 grado sin información de su situación final
+SI_SI_05;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 5 grado sin información de su situación final
+SI_SI_06;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 6 grado sin información de su situación final
+SI_SI_07;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 7 grado sin información de su situación final
+SI_SI_08;Numérico;Número de estudiantes de los que no se tiene información de su sexo de 8 grado sin información de su situación final
+SI_SI_TO;Numérico;Número Total de estudiantes de los que no se tiene información de su sexo sin información de su situación final
+PROM_ASIS_APR_HOM;Numérico;Porcentaje promedio de Asistencia de los alumnos hombres aprobados de un mismo nivel de Enseñanza
+PROM_ASIS_APR_MUJ;Numérico;Porcentaje promedio de Asistencia de las alumnas mujeres aprobadas de un mismo nivel de Enseñanza
+PROM_ASIS_APR_SI;Numérico;Porcentaje promedio de Asistencia de los alumnos sin información de género aprobados de un mismo nivel de Enseñanza
+PROM_ASIS_APR;Numérico;Porcentaje promedio de Asistencia de los alumnos aprobados de un mismo nivel de Enseñanza
+PROM_ASIS_REP_HOM;Numérico;Porcentaje promedio de Asistencia de los alumnos hombres reprobados de un mismo nivel de Enseñanza
+PROM_ASIS_REP_MUJ;Numérico;Porcentaje promedio de Asistencia de las alumnas mujeres reprobadas de un mismo nivel de Enseñanza
+PROM_ASIS_REP_SI;Numérico;Porcentaje promedio de Asistencia de las alumnos sin información de género reprobados de un mismo nivel de Enseñanza
+PROM_ASIS_REP;Numérico;Porcentaje promedio de Asistencia de los alumnos reprobados de un mismo nivel de Enseñanza
+PROM_ASIS;Numérico;Porcentaje promedio de Asistencia de los alumnos de un mismo nivel de Enseñanza
