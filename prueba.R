@@ -10,3 +10,5 @@ columnasAleatorias <- function(file, n) {
 }
 
 MyData <- columnasAleatorias("dataBase/20180214_Resumen_Rendimiento 2017_20180131.csv", 3)
+
+hombres_aprobados <- as.numeric(MyData$APR_HOM_TO)
