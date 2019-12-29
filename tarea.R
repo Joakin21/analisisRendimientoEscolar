@@ -14,9 +14,9 @@ hombres_reprobados <- as.numeric(MyData$REP_HOM_TO)
 mujeres_aprobadas <- as.numeric(MyData$APR_MUJ_TO)
 mujeres_reprobadas <- as.numeric(MyData$REP_MUJ_TO)
 total_alumnos <- hombres_aprobados + hombres_reprobados + mujeres_aprobadas + mujeres_reprobadas
-#se obtiene el total de aprobados
-total_reprobados <-  hombres_reprobados + mujeres_reprobadas
-#se obtiene el porcentaje de alumnos aprobados de todos los cursos
+#se obtiene el total de reprobados
+total_reprobados <- hombres_reprobados + mujeres_reprobadas
+#se obtiene el porcentaje de alumnos reprobados de todos los cursos
 porcentaje_reprobados <- (total_reprobados * 100)/total_alumnos
 #se obtiene el promedio de asistencia de todos los cursos
 promedio_asistencia <- as.numeric(gsub(",", ".", gsub("\\.", "", MyData$PROM_ASIS)))
